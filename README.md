@@ -1,4 +1,4 @@
 # Py-Col
-A collection of created mini projects in Python
+A collection of mini projects created in Python
 
 WARNING: No pull requests please

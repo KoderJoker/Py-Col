@@ -1,4 +1,4 @@
 # Py-Col
-A collection of random things in Python
+A collection of created mini projects in Python
 
 WARNING: No pull requests please

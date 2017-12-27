@@ -4,4 +4,4 @@ The following program takes input for the balance on credit card and annual inte
 
 Uses Bisection search.
 
-(Topic from MIT 6.00.1x)
+(Project made for MIT 6.00.1x)

@@ -1,4 +1,4 @@
- Link Extractor (for http:// and https:// links only)
+Link Extractor (for http:// and https:// links only)
 
 Step 1
 Copy the text from which you want to extract links to the clipboard (ctrl+A to select all)
